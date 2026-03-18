@@ -95,7 +95,7 @@ Then open your browser and navigate to `http://localhost:7860`.
 
 ## 🤝 Acknowledgement
 
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
+This project was not completed by only me. I want to thank all of my teammates for bringing this work to completion after 2 months of long nights and crunch hours on fine-tuning the LLMs and working through resource limitations (as students) together.
 
 ## 📄 License
 
