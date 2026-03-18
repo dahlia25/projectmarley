@@ -1,0 +1,13 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Log and temporary files
+logs/
+*.log
+*.tmp
+
+# Environment variables and sensitive data
+.env
